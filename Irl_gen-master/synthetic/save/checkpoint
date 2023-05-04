@@ -1,0 +1,2 @@
+model_checkpoint_path: "exper_40.ckpt"
+all_model_checkpoint_paths: "exper_40.ckpt"
