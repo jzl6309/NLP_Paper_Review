@@ -6,6 +6,6 @@ All code examples can be found in the "code" folder.
 
 ### Included implementations:
 * N-gram Model with Laplace Smoothing
-* RNN_Model 
+* RNN Model 
 * Inverse Reinforement Learning Model
 * Federated Text Model with Pretraining
